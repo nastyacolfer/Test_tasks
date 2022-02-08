@@ -25,7 +25,7 @@ public class Menu {
                     break;
                 case (2):
                     Task2 t2 = new Task2();
-                    System.out.println(t2.setupCounter());
+                    t2.setupCounter();
                     break;
                 case (3):
                     Task3 t3 = new Task3();
